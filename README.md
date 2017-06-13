@@ -1,32 +1,14 @@
-# vscode-css-to-stylus
+# Css To Stylus - Visual Studio Code Extension
 
-This is the README for your extension "vscode-css-to-stylus". After writing up a brief description, we recommend including the following sections.
+## Usage:
+![usage](images/usage.gif)
 
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-![feature X](images/css-to-stylus-icon.png)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
+## Extension Settings:
+- `cssToStylus.unprefix`: Remove vendor prefixes (Default is **true**)
+- `cssToStylus.indent`: Set indentation (Default is **4**)
+- `cssToStylus.cssSyntax`: Keep css syntax (Default is **false**)
+- `cssToStylus.keepColons`: Keep colons (Default is **false**)
+- `cssToStylus.separateRules`: Add new line before next rule (Default **true**)
+- `cssToStylus.removeComments`: Remove comments (Default is **true**)
+- `cssToStylus.colorVariables`: Create color variables at top of file (Default is **true**)
+- `cssToStylus.colorPrefix`: Color variables prefix (Default is **$color-**)

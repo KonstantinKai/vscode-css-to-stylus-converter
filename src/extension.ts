@@ -71,7 +71,7 @@ function showCompiledDocument (filename: string): void {
     let uri: Uri = Uri.parse(`untitled:${filename}`);
 
     workspace.openTextDocument(uri).then((document: TextDocument) => {
-        window.showTextDocument(document, 2, true).then((textEditor: TextEditor) => {
+        window.showTextDocument(document, editor.viewColumn + 1, true).then((textEditor: TextEditor) => {
             let timeout;
 
             workspace.onDidChangeTextDocument(e => {

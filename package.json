@@ -1,6 +1,6 @@
 {
   "name": "vscode-css-to-stylus",
-  "displayName": "Css to Stylus syntax converter",
+  "displayName": "Css to Stylus converter",
   "description": "Convert css to stylus",
   "version": "0.0.1",
   "publisher": "konstantinkai",
@@ -79,7 +79,7 @@
         },
         "cssToStylus.colorPrefix": {
           "type": "string",
-          "default": "",
+          "default": "$color-",
           "description": "Color variables prefix"
         }
       }
