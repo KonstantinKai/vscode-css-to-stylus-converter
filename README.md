@@ -14,3 +14,10 @@ Open command palette and and type in "`css to stylus`"
 - `cssToStylus.removeComments`: Remove comments (Default is **true**)
 - `cssToStylus.colorVariables`: Create color variables at top of file (Default is **true**)
 - `cssToStylus.colorPrefix`: Color variables prefix (Default is **$color-**)
+
+## Change Log:
+
+### v0.0.2
+- Update css-to-stylus-converter module
+### v0.0.1
+- Initial release

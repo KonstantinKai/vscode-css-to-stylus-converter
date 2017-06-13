@@ -99,6 +99,6 @@
     "@types/mocha": "^2.2.32"
   },
   "dependencies": {
-    "css-to-stylus-converter": "^1.1.4"
+    "css-to-stylus-converter": "^1.1.6"
   }
 }

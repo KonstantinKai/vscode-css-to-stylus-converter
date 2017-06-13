@@ -1,4 +1,6 @@
 # Change Log
 
-## [Unreleased]
+## v0.0.2
+- Update css-to-stylus-converter module
+## v0.0.1
 - Initial release
