@@ -1,6 +1,8 @@
 # Css To Stylus - Visual Studio Code Extension
 
 ## Usage:
+Open command palette and and type in "`css to stylus`"
+
 ![usage](images/usage.gif)
 
 ## Extension Settings:
