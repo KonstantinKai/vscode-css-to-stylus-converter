@@ -2,7 +2,7 @@
     "name": "vscode-css-to-stylus",
     "displayName": "Css to Stylus converter",
     "description": "Convert css to stylus",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "publisher": "konstantinkai",
     "engines": {
         "vscode": "^1.10.0"

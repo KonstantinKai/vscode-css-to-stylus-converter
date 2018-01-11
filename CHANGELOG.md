@@ -1,5 +1,7 @@
 # Change Log
 
+## v0.0.4
+- Change dependecies badge in README.
 ## v0.0.3
 - Update extension dependecies
 - Update main converter module

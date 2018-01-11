@@ -1,5 +1,5 @@
 [![GitHub version](https://badge.fury.io/gh/KonstantinKai%2Fvscode-css-to-stylus-converter.svg)](https://badge.fury.io/gh/KonstantinKai%2Fvscode-css-to-stylus-converter)
-[![Dependency Status](https://www.versioneye.com/user/projects/5942339b6725bd003b1d4ed4/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/5942339b6725bd003b1d4ed4)
+[![VersionEye](https://img.shields.io/versioneye/d/ruby/rails.svg)](https://github.com/KonstantinKai/vscode-css-to-stylus-converter)
 
 # Css To Stylus - Visual Studio Code Extension
 
